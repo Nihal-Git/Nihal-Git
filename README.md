@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Nihal-Git
+- 👋 Hi, I’m Nihal 😎
 - 👀 I’m interested in Data Science
+- 
 
 
 <!---
