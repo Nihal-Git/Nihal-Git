@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nihal 😎
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, Machine Learning and Natural Language Processing.
+- 🐍 Proficient in Pyhton Programming.
 
 
 <!---
