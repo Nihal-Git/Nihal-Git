@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nihal 😎
 - 👀 I’m interested in Data Science, Machine Learning and Natural Language Processing.
+- 💻 Working towards applying Data Science in the filed of Finance.
 - 🐍 Proficient in Pyhton Programming.
 
 
